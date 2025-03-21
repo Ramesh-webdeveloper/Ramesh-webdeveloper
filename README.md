@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...internships and fresher Jobs 
 - 📫 How to reach me ...rameshkurma888@gmail.com or 9347718300
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...Cooking is my passion and I make a delicious chicken curry
 
 <!---
 Ramesh-webdeveloper/Ramesh-webdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
