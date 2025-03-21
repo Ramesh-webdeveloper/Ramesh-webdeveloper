@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ramesh-webdeveloper
 - 👀 I’m interested in ...front end development 
-- 🌱 I’m currently learning ...html css js and python 
+- 🌱 my coding skills ...HTML CSS JAVASCRIPT ANGULAR JS 
 - 💞️ I’m looking to collaborate on ...internships and fresher Jobs 
 - 📫 How to reach me ...rameshkurma888@gmail.com or 9347718300
 - 😄 Pronouns: ...he/him
